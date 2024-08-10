@@ -1,0 +1,1091 @@
+<!doctype html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<meta name="Generator" content="Microsoft Word 15 (filtered medium)"> 
+<!--[if gte mso 9]>
+      <xml>
+         <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+         </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]--> 
+<title>Lastpass</title> 
+<!-- Version 12 - 2024-05-07 - GGray removed unused module added Getfeedback css -  --> 
+<!--[if (gte mso 9)|(IE)]><!--> 
+<link href="http://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet" type="text/css"> 
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,600" rel="stylesheet" type="text/css"> 
+<link rel="shortcut icon" href="https://www.lastpass.com/-/media/43c6c6862a08410a8ef34ab46a3a750b.ico"> 
+<!--<![endif]--> 
+<!--Dark Mode meta tags needed to enable Dark Mode in email client user agents--> 
+<!--Dark Mode meta tags needed to enable Dark Mode in email client user agents--> 
+<meta name="color-scheme" content="light dark"> 
+<meta name="supported-color-schemes" content="light dark only"> 
+<style type="text/css">
+  :root {
+    color-scheme: light dark;
+    supported-color-schemes: light dark;
+  }
+</style> 
+<!-- KZ Global Variables Begin-->               
+<!--Global Variables Begin-->                                     
+<!--*** old button height*** -->  
+<!--*** new button height*** -->           
+<!--*** old button height*** -->  
+<!--*** new button height*** -->     
+<!--preheader Variables Begin-->  
+<!--toplogobar Variables Begin-->   
+<!--headerimage Variables Begin-->   
+<!--bannerimage Variables Begin--> 
+<!--centerimage Variables Begin--> 
+<!--headlinebutton Variables Begin-->   
+<!--webinardetails Variables Begin-->       
+<!--bodycopy Variables Begin-->  
+<!--basicbullets Variables Begin-->  
+<!--checkmarkbullets Variables Begin-->  
+<!--imagebullets Variables Begin-->  
+<!--mainbuttoncenter Variables Begin-->  
+<!--altbuttoncenter Variables Begin-->  
+<!--dividerimageA Variables Begin-->  
+<!--dividerimageB Variables Begin-->  
+<!--dividerimageC Variables Begin-->  
+<!--dividerimageD Variables Begin-->  
+<!--headercenter Variables Begin-->   
+<!--headerleft Variables Begin-->   
+<!--subheadercenter Variables Begin-->   
+<!--subheaderleft Variables Begin-->   
+<!--calloutquote Variables Begin-->     
+<!--calloutstatistic Variables Begin-->        
+<!--b2cpriceplans Variables Begin-->             
+<!--b2bpriceplans Variables Begin-->             
+<!--priceplans Variables Begin-->                               
+<!--basicicons Variables Begin-->        
+<!--complexicons Variables Begin-->           
+<!--calloutarticle Variables Begin-->    
+<!--calloutarticleflipped Variables Begin-->   
+<!--featureA Variables Begin-->       
+<!--calloutarticlemajor Variables Begin-->     
+<!--calloutarticlemajorflipped Variables Begin-->     
+<!--featureB Variables Begin-->      
+<!--featureC Variables Begin-->               
+<!--featureD Variables Begin-->     
+<!--disclaimer Variables Begin-->  
+<!--loginbar Variables Begin-->    
+<!--footer Variables Begin-->        
+<!--footersnippet Variables Begin-->      
+<!--[if (gte mso 9)|(IE)]>
+      <style type="text/css">
+         table {border-collapse: collapse;border-spacing: 0; }
+      </style>
+      <![endif]--> 
+<style type="text/css">
+         :root { color-scheme: light dark;supported-color-schemes: light dark;}
+      </style> 
+<style type="text/css">
+         /* Client-specific Styles */
+          h2, h1, h3 {font-size: inherit !important;}
+         #outlook a {padding:0;} /* Force Outlook to provide a "view in browser" menu link.
+         */
+         body{width:100% !important; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; margin:0; padding:0;}
+         /* Prevent Webkit and Windows Mobile platforms from changing default font sizes, while not breaking desktop design.
+         */
+         .ExternalClass {width:100%;} /* Force Hotmail to display emails at full width */
+         .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Hotmail to display normal line spacing.
+         More on that:              http://www.emailonacid.com/forum/viewthread/43/ */
+         #backgroundTable {margin:0; padding:0; width:100% !important; line-height: 100% !important;}
+         img {outline:none; text-decoration:none;border:none; -ms-interpolation-mode: bicubic;}
+         a img {border:none;}
+         .image_fix {display:block;}
+         p {margin: 0px 0px !important;}
+         a {color:#3498DB;text-decoration:none;}
+         .tablet-button:hover{background-color:#B6000B!important;color:#ffffff!important;}
+         .tablet-buttonsec:hover{background-color:#B6000B!important;color:#ffffff!important;}
+         table td {border-collapse: collapse;}
+         table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; }   
+         table[class=full] { width: 100%; clear: both; }
+         table[class=devicewidth] {max-width:600px;}
+         .mobileOnly{display:none;}
+         /*################################################*/
+         /*IPAD STYLES*/
+         /*################################################*/
+         @media only screen and (max-width: 600px) {
+             .noMob span {display: none!important;content: none;}
+        .noMob:after{content: "\a";white-space: pre;}
+        
+         a[href^="tel"], a[href^="sms"] {
+         text-decoration: none;
+         color: #ffffff; /* or whatever your want */
+         pointer-events: none;
+         cursor: default;
+         }
+         .mobile_link a[href^="tel"], .mobile_link a[href^="sms"] {
+         text-decoration: default;
+         color: #ffffff !important;
+         pointer-events: auto;
+         cursor: default;
+         }
+         u + .body .glist { margin-left: 25px !important; }
+         u + .body .check { margin-left: 25px !important; }
+      .hidefooter { display:none!important;}
+         table[class=hideForMobile] { display:none!important;}
+         table[class=leftMobile] { float:left!important;}
+         table[class=devicewidth] {width: 100%!important;text-align:center!important;}
+         table[class=devicewidththin] {width: 90%!important;text-align:center!important;float:none!important;text-align:center;margin-left:auto;margin-right:auto;}
+         img[class=bigimage]{width: 100%!important;height:auto!important;}
+         /*img[class=medimage]{width: 80%!important;height:auto!important;}*/
+         img[class=smimage]{width: 50px!important;height:auto!important;}
+         img[class=insetimage]{width: 100px!important;height:auto!important;}
+         table[class="devicewidth forceblack"] {width: 100%!important;text-align:center!important;}
+         table[class="devicewidth pureblack"] {width: 100%!important;text-align:center!important;}
+         table[class="devicewidth forcewhite"] {width: 100%!important;text-align:center!important;}
+         table[class="devicewidth clearpads"] {padding-left:40px!important;padding-right:40px!important;width: 100%!important;text-align:center!important;}
+         table[class="devicewidth clearpads hideForMobile"] { display:none!important;}
+         td[class="clearpads forcewhite"] {padding-left:40px!important;padding-right:40px!important;}
+         td[class="clearpadsb forcewhite"] {padding-left:20px!important;padding-right:40px!important;}
+         td[class="clearpadsleft forcewhite"] {padding-left:40px!important;padding-right:0px!important;}
+         table[class=dividerMobile]{width:200px!important;height:5px!important;float:none!important;margin-left:auto;margin-right:auto;}
+         table[class=dividerMobile] td{height:5px!important;}
+         }
+         /*##############################################*/
+         /*IPHONE STYLES*/
+         /*##############################################*/
+         @media only screen and (max-width: 480px) {
+         a[class=tablet-button] {width: 85%!important;margin-left:auto!important;margin-right:auto!important;}
+         a[class=tablet-buttonsec] {width: 85%!important;margin-left:auto!important;margin-right:auto!important;}
+         .buttonleft{text-align:center!important;}
+         table[class="devicewidth forceblack"] {width: 100%!important;text-align:center!important;}
+         table[class="devicewidth forcewhite"] {width: 100%!important;text-align:center!important;}
+         table[class="devicewidth clearpads"] {padding-left:40px!important;padding-right:40px!important;width: 100%!important;text-align:center!important;}
+         table[class=devicewidth] {width: 100%!important;text-align:center!important;}
+         table[class=devicewidththin] {width: 90%!important;text-align:center!important;}
+         img[class=bigimage]{width: 100%!important;height:auto!important;}
+         table[class=tablet-button] {width: 85%!important;margin-left:auto!important;margin-right:auto!important;}
+         table[class=tablet-buttonsec] {width: 85%!important;margin-left:auto!important;margin-right:auto!important;}
+         td[class=clearpads]{padding-left:40px!important;padding-right:40px!important;}
+         td[class=clearpadsthin]{padding-left:10px!important;padding-right:10px!important;}
+         td[class="clearpads forcewhite"] {padding-left:40px!important;padding-right:40px!important;}
+         td[class="clearpadsthin forcewhite"] {padding-left:10px!important;padding-right:10px!important;}
+         }
+         @media(prefers-color-scheme: dark){
+         .forcewhite{color:#ffffff!important;}
+         .forceblack{background-color:#222222!important;}
+         table[class="devicewidth forceblack"] {background-color:#222222!important;}
+        
+        #logobar{background-color:#222222!important;}
+         u + .body .forcewhite{color:#ffffff!important;}
+         u + .body .forceblack{background-color:#222222!important;}
+         u + .body .pureblack{background-color:#000000!important;}
+         u + .body .glist { margin-left: 0 !important; }
+         u + .body .check { margin-left: 0 !important; }
+       .dark-img { display:block !important; width: auto !important; overflow: visible !important; float: none !important; max-height:inherit !important; max-width:inherit !important; line-height: auto !important; margin-top:0px !important; visibility:inherit !important; }
+       .light-img { display:none; display:none !important; }
+         [data-ogsc] .forcewhite{color:#ffffff!important;}
+         [data-ogsc] .forceblack{background-color:#222222!important;}
+         [data-ogsc] .pureblack{background-color:#000000!important;}
+       [data-ogsc] .dark-img { display:block !important; width: auto !important; overflow: visible !important; float: none !important; max-height:inherit !important; max-width:inherit !important; line-height: auto !important; margin-top:0px !important; visibility:inherit !important; }
+             [data-ogsc] .light-img { display:none; display:none !important; }
+          }
+          
+      </style> 
+<!-- GetFeedback css --> 
+<style>
+      @media only screen and (max-width: 600px) {
+       .layout {
+           max-width: 580px !important;
+           width: 100% !important;
+       }
+
+       .nps,
+       .rating-numbers {
+           Margin-bottom: 10px;
+       }
+
+       .nps,
+       .rating-numbers,
+       .nps div,
+       .rating-numbers div {
+           display: block !important;
+           padding: 0 !important;
+           width: auto !important;
+       }
+   }
+</style> 
+<style>
+   @media only screen and (max-width: 400px) {
+       .spacer {
+           font-size: 18px !important;
+           line-height: 18px !important;
+       }
+
+       .button a {
+           display: block !important;
+       }
+   }
+
+   @media (max-width: 600px) {
+       .inline-labels {
+           display: inline-block !important;
+       }
+   }
+
+   @media (min-width: 600px) {
+       .labels {
+           display: table !important;
+       }
+   }
+
+   @media (min-width: 401px) {
+       .padded {
+           padding: 36px 58px !important;
+       }
+   }
+</style> 
+<!--[if mso]>
+<style>
+.wrapper,
+h1,
+h2,
+td {
+font-family: sans-serif;
+}
+.nps td,
+.rating td {
+text-align: center;
+}
+.padded {
+padding: 36px 58px;
+}
+.multiple-choice-text,
+.customer-effort-text,
+.customer-satisfaction-text {
+border: 1px solid #cbcbcb;
+color: #5A5A5A;
+background-color: #fff;
+}
+</style>
+<![endif]--> 
+<style>
+   .button a:hover {
+       text-decoration: none !important
+   }
+
+   .button a:focus {
+       text-decoration: none !important
+   }
+
+   .nps a:hover {
+       text-decoration: none !important
+   }
+
+   .nps a:focus {
+       text-decoration: none !important
+   }
+
+   * [lang=x-button] a:hover {
+       text-decoration: none !important
+   }
+
+   * [lang=x-button] a:focus {
+       text-decoration: none !important
+   }
+
+   * [lang=x-nps] a:hover {
+       text-decoration: none !important
+   }
+
+   * [lang=x-nps] a:focus {
+       text-decoration: none !important
+   }
+
+   .multiple-choice a:hover {
+       text-decoration: none !important
+   }
+
+   .multiple-choice a:focus {
+       text-decoration: none !important
+   }
+
+   .customer-effort a:hover {
+       text-decoration: none !important
+   }
+
+   .customer-effort a:focus {
+       text-decoration: none !important
+   }
+
+   .customer-satisfaction a:hover {
+       text-decoration: none !important
+   }
+
+   .customer-satisfaction a:focus {
+       text-decoration: none !important
+   }
+
+   .rating a:hover {
+       text-decoration: none !important
+   }
+
+   .rating a:focus {
+       text-decoration: none !important
+   }
+</style> 
+</head> 
+<body style="font-family:Lato, Arial, Helvetica, sans-serif; font-size: 14px; margin: 0; padding: 0; color: #000000;"> 
+<table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0"> 
+<tbody>
+<tr> 
+<td bgcolor="#F7F9FA" class="mktoContainer forceblack" id="AssetWrapper">
+<table id="preheaderbar" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#F7F9FA" class="mktoModule forceblack"> 
+<tbody> 
+<tr> 
+<td> 
+<table class="devicewidth pureblack" width="600" style="width:600px;" cellspacing="0" cellpadding="0" border="0" bgcolor="#F7F9FA" align="center"> 
+<tbody> 
+<tr> 
+<td> 
+<div class="mktoText" id="preheadetext" style="display:none;font-size:1px;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;font-family: sans-serif;"> 
+<div style="display: none; max-height: 0px; overflow: hidden;">
+ Our summer sale is going, going…<div style="display: none; max-height: 0px; overflow: hidden;">&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;</div> 
+</div> 
+</div> 
+<div style="display: none; max-height: 0px; overflow: hidden;">
+ &nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp; &nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp; &nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp; &nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp; &nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp; &nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp; &nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp; 
+</div> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table>
+<table role="presentation" id="dynamiclogotest452c631e-a05d-4b29-a859-87f70d76c56e" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#F7F9FA" class="mktoModule forceblack"> 
+<tbody> 
+<tr> 
+<td> 
+<table role="presentation" class="devicewidth" id="logobar" width="600" style="width:600px;" cellspacing="0" cellpadding="0" border="0" bgcolor="#F7F9FA" align="center"> 
+<tbody> 
+<tr> 
+<td> 
+<!-- logo --> 
+<div class="mktoSnippet" id="Logo_dynamicsnippete3170436-f8fd-48fc-bf6e-8bac9a64c0f8" style="font-family:Lato, Arial, Helvetica, sans-serif;">
+ <table class="devicewidth forceblack" cellspacing="0" cellpadding="0" border="0" align="center" style="margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="padding: 10px; margin-bottom: 5px; margin-top: 5px;" class="logo" valign="middle">
+<div class="imgpop">
+<div class="no-insetimage light-img" id="dynamic_logobar_img" width="191" style="background-color: transparent;"><a href="https://www.lastpass.com/?"> <img src="https://info.lastpass.com/rs/129-MSQ-038/images/Logo_LastPass_Color2_Dark_Mode_NoEndorse.png" alt="LastPass Logo" style="display: inline; border: none; outline: none; text-decoration: none;" width="191" /></a></div>
+<!--[if !mso]><! -->
+<div class="dark-img" style="display: none; overflow: hidden; float: left; width: 0px; max-height: 0px; max-width: 0px; line-height: 0px; visibility: hidden;" align="center"><a href="https://www.lastpass.com/?"> <img class="dark-img no-insetimage" src="https://info.lastpass.com/rs/129-MSQ-038/images/Logo_LastPass_White2024-02-22.png" width="191" height="35" alt="LastPass" style="color: #ffffff; font-family: Lato, Arial, sans-serif; text-align: center; font-weight: bold; font-size: 20px; line-height: 40px; text-decoration: none; margin: 0 auto; padding: 0;" border="0" /></a></div>
+<!--<![endif]--></div>
+</td>
+</tr>
+</tbody>
+</table> 
+</div> 
+<!-- End of logo --> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table>
+<table id="bannerimage" class="mktoModule forceblack" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#F7F9FA"> 
+<tbody> 
+<tr> 
+<td> 
+<table class="devicewidth forceblack" width="600" cellspacing="0" cellpadding="0" border="0" bgcolor="#F7F9FA" align="center"> 
+<tbody> 
+<tr> 
+<td style="padding:0px 0px 0px 0px;"> 
+<table class="devicewidth" width="600" cellspacing="0" cellpadding="0" border="0" align="center"> 
+<tbody> 
+<tr> 
+<!-- start of image --> 
+<td width="100%" align="center"> 
+<div class="mktoImg" id="bannerimage_img" mktolockimgsize="false"> 
+<a target="_blank" href="#"><img alt="LastPass" style="display:block; border:none; outline:none;text-decoration:none;font-family:Lato, Arial,                                                       Helvetica, sans-serif;font-size:16px;line-height:24px;color:#1F2A34;" width="600" src="https://info.lastpass.com/rs/129-MSQ-038/images/LPC350-SummerSale-Email-Static-600x120.png?version=0" height="120" class="bigimage"></a> 
+</div> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table>
+<table id="headerleft14137956-0a21-4438-87fa-7fe926978970" class="mktoModule forceblack" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#F7F9FA"> 
+<tbody> 
+<tr> 
+<td> 
+<table class="devicewidth forceblack" width="600" style="width:600px;" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" align="center"> 
+<tbody> 
+<tr> 
+<td width="100%"> 
+<table class="devicewidth forceblack" width="600" style="width:600px;" cellspacing="0" cellpadding="0" border="0" align="center"> 
+<tbody> 
+<tr> 
+<td width="100%" class="clearpads forcewhite" align="center" valign="middle" style="font-family:Lato, Arial, Helvetica, sans-serif;padding:30px 40px 10px 40px;font-weight:bold; font-size: 24px; color: #000000; text-align:center;line-height: 30px;"> 
+<div class="mktoText" id="headerleft_textf59c2d53-9f1a-4a88-bd75-84c09db88295" style="font-family:Lato, Arial, Helvetica, sans-serif;"> 
+<div style="text-align: left;">
+ Sale 
+<em>extended</em> —&nbsp;there's still time to save 
+<br> 
+</div> 
+</div> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table>
+<table id="bodycopy" class="mktoModule forceblack" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#F7F9FA"> 
+<tbody> 
+<tr> 
+<td> 
+<table class="devicewidth forceblack" width="600" cellspacing="0" style="width:600px;" cellpadding="0" border="0" bgcolor="#ffffff" align="center"> 
+<tbody> 
+<tr> 
+<td width="100%"> 
+<table class="devicewidth" width="520" style="width:520px;" cellspacing="0" cellpadding="0" border="0" align="center"> 
+<tbody> 
+<tr> 
+<td width="100%" class="clearpads forcewhite" style="font-family:Lato, Arial, Helvetica, sans-serif; font-size: 16px; color: #1F2A34; text-align:left;line-height: 24px;padding:10px 0px 25px 0px;"> 
+<div class="mktoText" id="bodycopytext" style="font-family:Lato, Arial, Helvetica, sans-serif;"> 
+<div style="text-align: left;">
+ Great&nbsp;news, we've extended our summer sale! You still have&nbsp;one more day to 
+<strong>save 20%</strong> on&nbsp;LastPass Premium, Families, Teams, and Business plans. This sale won't last forever, upgrade your password security at a discount until 
+<em>tonight</em>. 
+<br> 
+</div> 
+</div> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table>
+<table id="dynamicbutton1d546203-72c0-4bf9-a479-8f879d7264d4" class="mktoModule forceblack" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#F7F9FA"> 
+<tbody> 
+<tr> 
+<td> 
+<table class="devicewidth forceblack" width="600" style="width:600px;" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" align="center"> 
+<tbody> 
+<tr> 
+<td width="100%" style="padding:0px 0px 0px 0px;"> 
+<table class="devicewidththin" width="520" style="width:520px;" cellspacing="0" cellpadding="0" border="0" align="center"> 
+<tbody> 
+<tr> 
+<td width="100%" align="center" style="text-align:center;padding:2px 0px 20px 0px;"> 
+<div class="buttonleft" style="text-align:center;"> 
+<div class="mktoText" id="dynamicbuttonsrcbcadf01d-302e-4317-99dc-b50c804d52dd"> 
+<!--[if mso]>
+                                                         <a:roundrect xmlns:a="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.lastpass.com/select-personal-plan-offer?cp=LP2024-07-20E-C&utm_source=marketo&utm_medium=email&utm_campaign=2024-07-22-b2c-multi-global-multi-july-promo" style="height:42px;v-text-anchor:middle;width:250px;" arcsize="50%" strokecolor="#D32D27" fillcolor="$#D32D27">
+                                                            <w:anchorlock/>
+                                                            <center style="color:#ffffff;font-family:Lato, Arial, Helvetica, sans-serif;font-size:18px;font-weight:bold;">Lock in 20% off</center>
+                                                         </a:roundrect>
+                                                         <![endif]--> 
+<a href="https://www.lastpass.com/select-personal-plan-offer?cp=LP2024-07-20E-C&utm_source=marketo&utm_medium=email&utm_campaign=2024-07-22-b2c-multi-global-multi-july-promo" style="background-color: #d32d27; border: 1px solid                                                             #D32D27; border-radius: 20px; color: #ffffff; display: inline-block; font-family: Lato, Arial, Helvetica, sans-serif; font-size: 18px; font-weight: bold; line-height: 42px; text-align: center; text-decoration: none; width: 250px; -webkit-text-size-adjust: none; mso-hide: all;" class="tablet-button" target="_blank">Save 20% now</a> 
+</div> 
+</div> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table>
+<table id="bodycopyd99d97e0-1e97-4490-a34f-d0e7410e2aca" class="mktoModule forceblack" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#F7F9FA"> 
+<tbody> 
+<tr> 
+<td> 
+<table class="devicewidth forceblack" width="600" cellspacing="0" style="width:600px;" cellpadding="0" border="0" bgcolor="#ffffff" align="center"> 
+<tbody> 
+<tr> 
+<td width="100%"> 
+<table class="devicewidth" width="520" style="width:520px;" cellspacing="0" cellpadding="0" border="0" align="center"> 
+<tbody> 
+<tr> 
+<td width="100%" class="clearpads forcewhite" style="font-family:Lato, Arial, Helvetica, sans-serif; font-size: 16px; color: #1F2A34; text-align:left;line-height: 24px;padding:10px 0px 20px 0px;"> 
+<div class="mktoText" id="bodycopytext81a968b0-f242-4bca-9b21-67e921a7bec8" style="font-family:Lato, Arial, Helvetica, sans-serif;"> 
+<div style="text-align: center;"> 
+<em>Last chance, this offer ends&nbsp;tonight</em> 
+<br> 
+</div> 
+</div> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table>
+<table id="bannerimage77fc2c08-0b1e-43ea-9795-d27d9cc3fe11" class="mktoModule forceblack" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#F7F9FA"> 
+<tbody> 
+<tr> 
+<td> 
+<table class="devicewidth forceblack" width="600" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" align="center"> 
+<tbody> 
+<tr> 
+<td style="padding:0px 0px 0px 0px;"> 
+<table class="devicewidth" width="600" cellspacing="0" cellpadding="0" border="0" align="center"> 
+<tbody> 
+<tr> 
+<!-- start of image --> 
+<td width="100%" align="center"> 
+<div class="mktoImg" id="bannerimage_imgc36646e3-d4d7-4e5b-85bb-ca667e0f2917" mktolockimgsize="false"> 
+<a target="_blank" href="#"><img alt="-----" style="outline:none; text-decoration:none;font-family:Lato, Arial, Helvetica, sans-serif;font-size:16px;line-height:24px;color:#1F2A34;" width="600" src="https://info.lastpass.com/rs/129-MSQ-038/images/Divider_LastPass_Dashed-Line-gray.png" height="1" class="bigimage"></a> 
+</div> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table>
+<table id="headerleft4b4493e1-f09d-42a0-8110-783c3d18bc4f" class="mktoModule forceblack" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#F7F9FA"> 
+<tbody> 
+<tr> 
+<td> 
+<table class="devicewidth forceblack" width="600" style="width:600px;" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" align="center"> 
+<tbody> 
+<tr> 
+<td width="100%"> 
+<table class="devicewidth forceblack" width="600" style="width:600px;" cellspacing="0" cellpadding="0" border="0" align="center"> 
+<tbody> 
+<tr> 
+<td width="100%" class="clearpads forcewhite" align="center" valign="middle" style="font-family:Lato, Arial, Helvetica, sans-serif;padding:30px 40px 20px 40px;font-weight:bold; font-size: 24px; color: #000000; text-align:center;line-height: 30px;"> 
+<div class="mktoText" id="headerleft_text88a9650d-9db4-40e1-b4cf-87c11892e3f4" style="font-family:Lato, Arial, Helvetica, sans-serif;">
+ Choose the best plan for you 
+</div> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table>
+<table id="dynamicbutton083ee94e-6f43-43a2-be10-4114142a3461" class="mktoModule forceblack" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#F7F9FA"> 
+<tbody> 
+<tr> 
+<td> 
+<table class="devicewidth forceblack" width="600" style="width:600px;" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" align="center"> 
+<tbody> 
+<tr> 
+<td width="100%" style="padding:0px 0px 0px 0px;"> 
+<table class="devicewidththin" width="520" style="width:520px;" cellspacing="0" cellpadding="0" border="0" align="center"> 
+<tbody> 
+<tr> 
+<td width="100%" align="center" style="text-align:center;padding:2px 0px 20px 0px;"> 
+<div class="buttonleft" style="text-align:center;"> 
+<div class="mktoText" id="dynamicbuttonsrc0b53969c-7ad5-4dbb-a747-bff496d9ccec">
+ <!-- start of B2C price plans -->
+<table role="presentation" id="b2cpriceplanssnippet2" class="forceblack" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff">
+<tbody>
+<tr>
+<td>
+<table role="presentation" class="devicewidth forceblack" width="520" style="width: 520px;" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" align="center">
+<tbody>
+<tr>
+<td width="100%" style="padding: 0px 0px 0px 0px;">
+<table role="presentation" class="devicewidth clearpads" width="518" style="width: 518px;" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody>
+<tr>
+<td valign="top"><!-- START PRICING PLAN A--> <!-- [if (gte mso 9)]>
+                                                      <table role="presentation"  border="0" cellpadding="0" cellspacing="0" width="100%" style="width:100%;" align="left">
+                                                                                                            
+                                                      <tr>
+                                                      <td width="250" style="width:250px;border:2px solid  #A5C1DC;"><![endif]-->
+<table class="devicewidththin" width="250" cellspacing="0" cellpadding="0" border="0" align="left" style="float: left; margin-top: 20px; margin-bottom: 15px; border: 2px solid  #A5C1DC;">
+<tbody>
+<tr>
+<td width="100%" class="clearpads" style="background-color: #A5C1DC; font-family: Lato, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 18px; color: #000000; text-align: left; line-height: 24px; padding: 15px 10px 15px 10px;" colspan="2">Premium<br /></td>
+</tr>
+<tr>
+<td align="right" class="clearpadsleft" style="width: 50%; font-family: Lato, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 26px; color: #1f2a34; text-align: right; line-height: 28px; padding: 20px 5px 20px 10px; background-color: #fefefe;">$2.40
+<span style="text-decoration: line-through;">$3
+</span></td>
+<td align="left" class="clearpadsb" style="width: 50%; font-family: Lato, Arial, Helvetica, sans-serif; font-size: 12px; color: #1f2a34; text-align: left; line-height: 13px; padding: 20px 10px 20px 5px; background-color: #fefefe;"><em>per month</em><br /><em>billed annually</em></td>
+</tr>
+<tr><!--START BUTTON A-->
+<td width="100%" class="clearpads forcewhite" style="font-family: Lato, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 18px; color: #1f2a34; text-align: center; line-height: 24px; padding: 10px 0px 10px 0px; background-color: #fefefe;" colspan="2">
+<div><!--[if mso]>
+                                                                     <a:roundrect xmlns:a="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.lastpass.com/select-personal-plan-offer?cp=LP2024-07-20E-C&utm_source=marketo&utm_medium=email&utm_campaign=2024-07-22-b2c-multi-global-multi-july-promo" style="height:40px;v-text-anchor:middle;width:210px;" arcsize="30%" strokecolor="#d32d27" fillcolor="#ffffff">
+                                                                        <w:anchorlock/>
+                                                                        <center style="color:#d32d27;font-family:Lato, Arial, Helvetica, sans-serif;font-size:18px;font-weight:bold;">Buy Premium</center>
+                                                                     </a:roundrect>
+                                                                     <![endif]--> <a href="https://www.lastpass.com/select-personal-plan-offer?cp=LP2024-07-20E-C&utm_source=marketo&utm_medium=email&utm_campaign=2024-07-22-b2c-multi-global-multi-july-promo" style="background-color: #ffffff; border: 2px solid #d32d27; border-radius: 15px; color: #d32d27; display: inline-block; font-family: Lato, Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold; line-height: 40px; text-align: center; text-decoration: none; width: 210px; -webkit-text-size-adjust: none; mso-hide: all;" class="tablet-buttonsec" target="_blank">Buy Premium</a></div>
+</td>
+<!--END BUTTON A--></tr>
+<tr>
+<td width="100%" class="clearpads" style="font-family: Lato, Arial, Helvetica, sans-serif; font-size: 14px; color: #1f2a34; text-align: center; line-height: 12px; padding: 20px 20px 20px 20px; background-color: #fefefe;" colspan="2"><strong>Good for 1 user</strong></td>
+</tr>
+<tr><!--START DIVIDER-->
+<td width="100%" align="center" class="clearpads forcewhite" style="font-family: Lato, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 6px; color: #000000; text-align: center; line-height: 8px; padding: 0px 12px 0px 12px; background-color: #fefefe;" colspan="2">
+<table class="devicewidth" width="100%" cellspacing="0" cellpadding="0" border="0" align="center" style="border-top: 2px dotted #A5C1DC;">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+<!--END DIVIDER--></tr>
+<tr>
+<td width="100%" class="clearpads" style="font-family: Lato, Arial, Helvetica, sans-serif; font-size: 14px; color: #000000; text-align: center; line-height: 16px; padding: 10px 10px 30px 10px; background-color: #fefefe;" colspan="2"><!--START CHECKMARK BULLETS-->
+<table align="center" class="leftMobile">
+<tbody>
+<tr>
+<td width="25" valign="top" style="font-size: 14px; color: #000000; text-align: left; padding: 0px 0px 0px 2px;">✔</td>
+<td valign="top" style="font-family: Lato, Arial, Helvetica, sans-serif; font-size: 14px; color: #1f2a34; text-align: left; line-height: 24px; padding: 0px 0px 0px 0px;">1 vault<br /></td>
+</tr>
+<tr>
+<td width="25" valign="top" style="font-size: 14px; color: #000000; text-align: left; padding: 0px 0px 0px 2px;">✔</td>
+<td valign="top" style="font-family: Lato, Arial, Helvetica, sans-serif; font-size: 14px; color: #1f2a34; text-align: left; line-height: 24px; padding: 0px 0px 0px 0px;">Access on all devices<br /></td>
+</tr>
+<tr>
+<td width="25" valign="top" style="font-size: 14px; color: #000000; text-align: left; padding: 0px 0px 0px 2px;">✔</td>
+<td valign="top" style="font-family: Lato, Arial, Helvetica, sans-serif; font-size: 14px; color: #1f2a34; text-align: left; line-height: 24px; padding: 0px 0px 0px 0px;">One-to-many sharing</td>
+</tr>
+<tr>
+<td width="25" valign="top" style="font-size: 14px; color: #000000; text-align: left; padding: 0px 0px 0px 2px;">✔</td>
+<td valign="top" style="font-family: Lato, Arial, Helvetica, sans-serif; font-size: 14px; color: #1f2a34; text-align: left; line-height: 24px; padding: 0px 0px 0px 0px;">Personal customer support</td>
+</tr>
+</tbody>
+</table>
+<!--END CHECKMARK BULLETS--></td>
+</tr>
+</tbody>
+</table>
+<!--END PRICING PLAN A--> <!-- [if (gte mso 9)]>
+                                                </td>
+<td width="4">&nbsp;</td>
+                                                      <td width="250" style="width:250px;border:2px solid  #A5C1DC;"><![endif]--> <!--START PRICING PLAN B-->
+<table class="devicewidththin" width="250" cellspacing="0" cellpadding="0" border="0" align="right" style="float: right; margin-top: 20px; border: 2px solid #A5C1DC;">
+<tbody>
+<tr>
+<td width="100%" class="clearpads" style="background-color: #A5C1DC; font-family: Lato, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 18px; color: #000000; text-align: left; line-height: 24px; padding: 15px 10px 15px 10px;" colspan="2">Families<br /></td>
+</tr>
+<tr>
+<td align="right" class="clearpadsleft" style="width: 50%; font-family: Lato, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 26px; color: #1f2a34; text-align: right; line-height: 28px; padding: 20px 5px 20px 10px; background-color: #fefefe;">$3.20
+ <span style="text-decoration: line-through;">$4
+</span><br /></td>
+<td align="left" class="clearpadsb" style="width: 50%; font-family: Lato, Arial, Helvetica, sans-serif; font-size: 12px; color: #1f2a34; text-align: left; line-height: 13px; padding: 20px 10px 20px 5px; background-color: #fefefe;"><em>per user/month</em><br /><em>billed annually</em></td>
+</tr>
+<tr><!--START BUTTON B-->
+<td width="100%" class="clearpads forcewhite" style="font-family: Lato, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 18px; color: #1f2a34; text-align: center; line-height: 24px; padding: 10px 0px 10px 0px; background-color: #fefefe;" colspan="2">
+<div><!--[if mso]>
+                                                                     <a:roundrect xmlns:a="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.lastpass.com/select-personal-plan-offer?cp=LP2024-07-20E-C&utm_source=marketo&utm_medium=email&utm_campaign=2024-07-22-b2c-multi-global-multi-july-promo" style="height:40px;v-text-anchor:middle;width:210px;" arcsize="30%" strokecolor="#d32d27" fillcolor="#ffffff">
+                                                                        <w:anchorlock/>
+                                                                        <center style="color:#d32d27;font-family:Lato, Arial, Helvetica, sans-serif;font-size:16px;font-weight:bold;">Buy Families</center>
+                                                                     </a:roundrect>
+                                                                     <![endif]--> <a href="https://www.lastpass.com/select-personal-plan-offer?cp=LP2024-07-20E-C&utm_source=marketo&utm_medium=email&utm_campaign=2024-07-22-b2c-multi-global-multi-july-promo" style="background-color: #ffffff; border: 2px solid #d32d27; border-radius: 15px; color: #d32d27; display: inline-block; font-family: Lato, Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold; line-height: 40px; text-align: center; text-decoration: none; width: 210px; -webkit-text-size-adjust: none; mso-hide: all;" class="tablet-buttonsec" target="_blank">Buy Families</a></div>
+</td>
+<!--END BUTTON B--></tr>
+<tr>
+<td width="100%" class="clearpads" style="font-family: Lato, Arial, Helvetica, sans-serif; font-size: 14px; color: #1f2a34; text-align: center; line-height: 12px; padding: 20px 20px 20px 20px; background-color: #fefefe;" colspan="2"><strong>Good for up to 6 users</strong></td>
+</tr>
+<tr><!--START DIVIDER-->
+<td width="100%" align="center" class="clearpads forcewhite" style="font-family: Lato, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 6px; color: #000000; text-align: center; line-height: 8px; padding: 0px 15px 0px 15px; background-color: #fefefe;" colspan="2">
+<table class="devicewidth" width="100%" cellspacing="0" cellpadding="0" border="0" align="center" style="border-top: 2px dotted #A5C1DC;">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+<!--END DIVIDER--></tr>
+<tr><!--START CHECKMARK BULLETS-->
+<td width="100%" class="clearpads" style="font-family: Lato, Arial, Helvetica, sans-serif; font-size: 14px; color: #000000; text-align: center; line-height: 16px; padding: 10px 10px 30px 10px; background-color: #fefefe;" colspan="2">
+<table align="center" class="leftMobile">
+<tbody>
+<tr>
+<td width="25" valign="top" style="font-size: 14px; color: #000000; text-align: left; padding: 0px 0px 0px 2px;">✔</td>
+<td valign="top" style="font-family: Lato, Arial, Helvetica, sans-serif; font-size: 14px; color: #1f2a34; text-align: left; line-height: 24px; padding: 0px 0px 0px 0px;">6 individual vaults<br /></td>
+</tr>
+<tr>
+<td width="25" valign="top" style="font-size: 14px; color: #000000; text-align: left; padding: 0px 0px 0px 2px;">✔</td>
+<td valign="top" style="font-family: Lato, Arial, Helvetica, sans-serif; font-size: 14px; color: #1f2a34; text-align: left; line-height: 24px; padding: 0px 0px 0px 0px;">Family manager dashboard</td>
+</tr>
+<tr>
+<td width="25" valign="top" style="font-size: 14px; color: #000000; text-align: left; padding: 0px 0px 0px 2px;">✔</td>
+<td valign="top" style="font-family: Lato, Arial, Helvetica, sans-serif; font-size: 14px; color: #1f2a34; text-align: left; line-height: 24px; padding: 0px 0px 0px 0px;">Shared folder access<br /></td>
+</tr>
+<tr>
+<td width="25" valign="top" style="font-size: 14px; color: #000000; text-align: left; padding: 0px 0px 0px 2px;">✔</td>
+<td valign="top" style="font-family: Lato, Arial, Helvetica, sans-serif; font-size: 14px; color: #1f2a34; text-align: left; line-height: 24px; padding: 0px 0px 0px 0px;">All Premium features<br /></td>
+</tr>
+</tbody>
+</table>
+</td>
+<!--END CHECKMARK BULLETS--></tr>
+</tbody>
+</table>
+<!-- [if (gte mso 9)]></td>
+                                                      </tr>
+                                                                                                            
+                                                      </table>
+                                                                                                            <![endif]--></td>
+<!--END PRICING PLAN B--></tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table> 
+</div> 
+</div> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table>
+<table id="headerleft6789fd84-4e9d-4dde-a617-d2b1e6f5891a" class="mktoModule forceblack" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#F7F9FA"> 
+<tbody> 
+<tr> 
+<td> 
+<table class="devicewidth forceblack" width="600" style="width:600px;" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" align="center"> 
+<tbody> 
+<tr> 
+<td width="100%"> 
+<table class="devicewidth forceblack" width="600" style="width:600px;" cellspacing="0" cellpadding="0" border="0" align="center"> 
+<tbody> 
+<tr> 
+<td width="100%" class="clearpads forcewhite" align="center" valign="middle" style="font-family:Lato, Arial, Helvetica, sans-serif;padding:15px 40px 15px 40px;font-weight:bold; font-size: 24px; color: #000000; text-align:center;line-height: 30px;"> 
+<div class="mktoText" id="headerleft_text4daa301e-cc83-4363-b7dd-6bbe8b2bea6e" style="font-family:Lato, Arial, Helvetica, sans-serif;">
+ Not for you? Explore&nbsp;more options 
+</div> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table>
+<table id="dynamicbutton6fb4c83e-9932-4c1c-8acc-c6b974ef6390" class="mktoModule forceblack" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#F7F9FA"> 
+<tbody> 
+<tr> 
+<td> 
+<table class="devicewidth forceblack" width="600" style="width:600px;" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" align="center"> 
+<tbody> 
+<tr> 
+<td width="100%" style="padding:0px 0px 0px 0px;"> 
+<table class="devicewidththin" width="520" style="width:520px;" cellspacing="0" cellpadding="0" border="0" align="center"> 
+<tbody> 
+<tr> 
+<td width="100%" align="center" style="text-align:center;padding:2px 0px 20px 0px;"> 
+<div class="buttonleft" style="text-align:center;"> 
+<div class="mktoText" id="dynamicbuttonsrcb273857e-576a-4602-8eb2-82e9f1e56d8e">
+ <!-- start of B2b price plans -->
+<table role="presentation" id="b2bpriceplanssnippet2" class="forceblack" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff">
+<tbody>
+<tr>
+<td>
+<table role="presentation" class="devicewidth forceblack" width="520" style="width: 520px;" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" align="center">
+<tbody>
+<tr>
+<td width="100%" style="padding: 0px 0px 0px 0px;">
+<table role="presentation" class="devicewidth clearpads" width="518" style="width: 518px;" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody>
+<tr>
+<td valign="top"><!-- START PRICING PLAN A--> <!-- [if (gte mso 9)]>
+                                                      <table role="presentation"  border="0" cellpadding="0" cellspacing="0" width="100%" style="width:100%;" align="left">
+                                                                                                            
+                                                      <tr>
+                                                      <td width="250" style="width:250px;border:2px solid  #A5C1DC;"><![endif]-->
+<table class="devicewidththin" width="250" cellspacing="0" cellpadding="0" border="0" align="left" style="float: left; margin-top: 20px; margin-bottom: 15px; border: 2px solid  #A5C1DC;">
+<tbody>
+<tr>
+<td width="100%" class="clearpads" style="background-color: #A5C1DC; font-family: Lato, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 18px; color: #000000; text-align: left; line-height: 24px; padding: 15px 10px 15px 10px;" colspan="2">Teams<br /></td>
+</tr>
+<tr>
+<td align="right" class="clearpadsleft" style="width: 50%; font-family: Lato, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 26px; color: #1f2a34; text-align: right; line-height: 28px; padding: 20px 5px 20px 10px; background-color: #fefefe;">$3.20
+<span style="text-decoration: line-through;">$4
+</span></td>
+<td align="left" class="clearpadsb" style="width: 50%; font-family: Lato, Arial, Helvetica, sans-serif; font-size: 12px; color: #1f2a34; text-align: left; line-height: 13px; padding: 20px 10px 20px 5px; background-color: #fefefe;"><em>per user/month</em><br /><em>billed annually</em></td>
+</tr>
+<tr><!--START BUTTON A-->
+<td width="100%" class="clearpads forcewhite" style="font-family: Lato, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 18px; color: #1f2a34; text-align: center; line-height: 24px; padding: 10px 0px 10px 0px; background-color: #fefefe;" colspan="2">
+<div><!--[if mso]>
+                                                                     <a:roundrect xmlns:a="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.lastpass.com/select-business-plan-offer?cp=LP2024-07-20E-C&utm_source=marketo&utm_medium=email&utm_campaign=2024-07-22-b2c-multi-global-multi-july-promo" style="height:40px;v-text-anchor:middle;width:210px;" arcsize="30%" strokecolor="#d32d27" fillcolor="#ffffff">
+                                                                        <w:anchorlock/>
+                                                                        <center style="color:#d32d27;font-family:Lato, Arial, Helvetica, sans-serif;font-size:18px;font-weight:bold;">Buy Teams</center>
+                                                                     </a:roundrect>
+                                                                     <![endif]--> <a href="https://www.lastpass.com/select-business-plan-offer?cp=LP2024-07-20E-C&utm_source=marketo&utm_medium=email&utm_campaign=2024-07-22-b2c-multi-global-multi-july-promo" style="background-color: #ffffff; border: 2px solid #d32d27; border-radius: 15px; color: #d32d27; display: inline-block; font-family: Lato, Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold; line-height: 40px; text-align: center; text-decoration: none; width: 210px; -webkit-text-size-adjust: none; mso-hide: all;" class="tablet-buttonsec" target="_blank">Buy Teams</a></div>
+</td>
+<!--END BUTTON A--></tr>
+<tr>
+<td width="100%" class="clearpads" style="font-family: Lato, Arial, Helvetica, sans-serif; font-size: 14px; color: #1f2a34; text-align: center; line-height: 12px; padding: 20px 20px 20px 20px; background-color: #fefefe;" colspan="2"><strong>Good for groups less than 50</strong></td>
+</tr>
+<tr><!--START DIVIDER-->
+<td width="100%" align="center" class="clearpads forcewhite" style="font-family: Lato, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 6px; color: #000000; text-align: center; line-height: 8px; padding: 0px 12px 0px 12px; background-color: #fefefe;" colspan="2">
+<table class="devicewidth" width="100%" cellspacing="0" cellpadding="0" border="0" align="center" style="border-top: 2px dotted #A5C1DC;">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+<!--END DIVIDER--></tr>
+<tr>
+<td width="100%" class="clearpads" style="font-family: Lato, Arial, Helvetica, sans-serif; font-size: 14px; color: #000000; text-align: center; line-height: 16px; padding: 10px 10px 30px 10px; background-color: #fefefe;" colspan="2"><!--START CHECKMARK BULLETS-->
+<table align="center" class="leftMobile">
+<tbody>
+<tr>
+<td width="25" valign="top" style="font-size: 14px; color: #000000; text-align: left; padding: 0px 0px 0px 2px;">✔</td>
+<td valign="top" style="font-family: Lato, Arial, Helvetica, sans-serif; font-size: 14px; color: #1f2a34; text-align: left; line-height: 18px; padding: 0px 0px 6px 0px;">Private vault for every user<br /></td>
+</tr>
+<tr>
+<td width="25" valign="top" style="font-size: 14px; color: #000000; text-align: left; padding: 0px 0px 0px 2px;">✔</td>
+<td valign="top" style="font-family: Lato, Arial, Helvetica, sans-serif; font-size: 14px; color: #1f2a34; text-align: left; line-height: 18px; padding: 0px 0px 6px 0px;">Secure sharing functionality</td>
+</tr>
+<tr>
+<td width="25" valign="top" style="font-size: 14px; color: #000000; text-align: left; padding: 0px 0px 0px 2px;">✔</td>
+<td valign="top" style="font-family: Lato, Arial, Helvetica, sans-serif; font-size: 14px; color: #1f2a34; text-align: left; line-height: 18px; padding: 0px 0px 6px 0px;">Multifactor authentication</td>
+</tr>
+<tr>
+<td width="25" valign="top" style="font-size: 14px; color: #000000; text-align: left; padding: 0px 0px 0px 2px;">✔</td>
+<td valign="top" style="font-family: Lato, Arial, Helvetica, sans-serif; font-size: 14px; color: #1f2a34; text-align: left; line-height: 18px; padding: 0px 0px 6px 0px;">Security Dashboard<br /></td>
+</tr>
+</tbody>
+</table>
+<!--END CHECKMARK BULLETS--></td>
+</tr>
+</tbody>
+</table>
+<!--END PRICING PLAN A--> <!-- [if (gte mso 9)]>
+                                                </td>
+<td width="4">&nbsp;</td>
+                                                      <td width="250" style="width:250px;border:2px solid  #A5C1DC;"><![endif]--> <!--START PRICING PLAN B-->
+<table class="devicewidththin" width="250" cellspacing="0" cellpadding="0" border="0" align="right" style="float: right; margin-top: 20px; border: 2px solid #A5C1DC;">
+<tbody>
+<tr>
+<td width="100%" class="clearpads" style="background-color: #A5C1DC; font-family: Lato, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 18px; color: #000000; text-align: left; line-height: 24px; padding: 15px 10px 15px 10px;" colspan="2">Business<br /></td>
+</tr>
+<tr>
+<td align="right" class="clearpadsleft" style="width: 50%; font-family: Lato, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 26px; color: #1f2a34; text-align: right; line-height: 28px; padding: 20px 5px 20px 10px; background-color: #fefefe;"><span style="color: #1f2a34; font-family: Lato, Arial, Helvetica, sans-serif; font-size: 26px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: bold; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #fefefe; float: none; display: inline !important;">$5.60
+</span><span style="text-decoration: line-through;">$7
+</span><br /></td>
+<td align="left" class="clearpadsb" style="width: 50%; font-family: Lato, Arial, Helvetica, sans-serif; font-size: 12px; color: #1f2a34; text-align: left; line-height: 13px; padding: 20px 10px 20px 5px; background-color: #fefefe;"><em>per user/month</em><br /><em>billed annually</em></td>
+</tr>
+<tr><!--START BUTTON B-->
+<td width="100%" class="clearpads forcewhite" style="font-family: Lato, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 18px; color: #1f2a34; text-align: center; line-height: 24px; padding: 10px 0px 10px 0px; background-color: #fefefe;" colspan="2">
+<div><!--[if mso]>
+                                                                     <a:roundrect xmlns:a="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.lastpass.com/select-business-plan-offer?cp=LP2024-07-20E-C&utm_source=marketo&utm_medium=email&utm_campaign=2024-07-22-b2c-multi-global-multi-july-promo" style="height:40px;v-text-anchor:middle;width:210px;" arcsize="30%" strokecolor="#d32d27" fillcolor="#ffffff">
+                                                                        <w:anchorlock/>
+                                                                        <center style="color:#d32d27;font-family:Lato, Arial, Helvetica, sans-serif;font-size:16px;font-weight:bold;">Buy Business</center>
+                                                                     </a:roundrect>
+                                                                     <![endif]--> <a href="https://www.lastpass.com/select-business-plan-offer?cp=LP2024-07-20E-C&utm_source=marketo&utm_medium=email&utm_campaign=2024-07-22-b2c-multi-global-multi-july-promo" style="background-color: #ffffff; border: 2px solid #d32d27; border-radius: 15px; color: #d32d27; display: inline-block; font-family: Lato, Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold; line-height: 40px; text-align: center; text-decoration: none; width: 210px; -webkit-text-size-adjust: none; mso-hide: all;" class="tablet-buttonsec" target="_blank">Buy Business</a></div>
+</td>
+<!--END BUTTON B--></tr>
+<tr>
+<td width="100%" class="clearpads" style="font-family: Lato, Arial, Helvetica, sans-serif; font-size: 14px; color: #1f2a34; text-align: center; line-height: 12px; padding: 20px 20px 20px 20px; background-color: #fefefe;" colspan="2"><strong>Good for an organization </strong></td>
+</tr>
+<tr><!--START DIVIDER-->
+<td width="100%" align="center" class="clearpads forcewhite" style="font-family: Lato, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 6px; color: #000000; text-align: center; line-height: 8px; padding: 0px 15px 0px 15px; background-color: #fefefe;" colspan="2">
+<table class="devicewidth" width="100%" cellspacing="0" cellpadding="0" border="0" align="center" style="border-top: 2px dotted #A5C1DC;">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+<!--END DIVIDER--></tr>
+<tr><!--START CHECKMARK BULLETS-->
+<td width="100%" class="clearpads" style="font-family: Lato, Arial, Helvetica, sans-serif; font-size: 14px; color: #000000; text-align: center; line-height: 16px; padding: 10px 10px 30px 10px; background-color: #fefefe;" colspan="2">
+<table align="center" class="leftMobile">
+<tbody>
+<tr>
+<td width="25" valign="top" style="font-size: 14px; color: #000000; text-align: left; padding: 0px 0px 0px 2px;">✔</td>
+<td valign="top" style="font-family: Lato, Arial, Helvetica, sans-serif; font-size: 14px; color: #1f2a34; text-align: left; line-height: 18px; padding: 0px 0px 6px 0px;">Includes all Teams features <br /></td>
+</tr>
+<tr>
+<td width="25" valign="top" style="font-size: 14px; color: #000000; text-align: left; padding: 0px 0px 0px 2px;">✔</td>
+<td valign="top" style="font-family: Lato, Arial, Helvetica, sans-serif; font-size: 14px; color: #1f2a34; text-align: left; line-height: 18px; padding: 0px 0px 6px 0px;">100+ customizable policies</td>
+</tr>
+<tr>
+<td width="25" valign="top" style="font-size: 14px; color: #000000; text-align: left; padding: 0px 0px 0px 2px;">✔</td>
+<td valign="top" style="font-family: Lato, Arial, Helvetica, sans-serif; font-size: 14px; color: #1f2a34; text-align: left; line-height: 18px; padding: 0px 0px 6px 0px;">1200+ pre-integrated SSO apps <br /></td>
+</tr>
+<tr>
+<td width="25" valign="top" style="font-size: 14px; color: #000000; text-align: left; padding: 0px 0px 0px 2px;">✔</td>
+<td valign="top" style="font-family: Lato, Arial, Helvetica, sans-serif; font-size: 14px; color: #1f2a34; text-align: left; line-height: 18px; padding: 0px 0px 6px 0px;">LastPass Families for each user<br /></td>
+</tr>
+</tbody>
+</table>
+</td>
+<!--END CHECKMARK BULLETS--></tr>
+</tbody>
+</table>
+<!-- [if (gte mso 9)]></td>
+                                                      </tr>
+                                                                                                            
+                                                      </table>
+                                                                                                            <![endif]--></td>
+<!--END PRICING PLAN B--></tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table> 
+</div> 
+</div> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table>
+<table id="disclaimera754d976-ca49-431b-9073-812cba9b633d" class="mktoModule forceblack" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#F7F9FA"> 
+<tbody> 
+<tr> 
+<td> 
+<table class="devicewidth forceblack" width="600" style="width:600px;" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" align="center"> 
+<tbody> 
+<tr> 
+<td width="100%"> 
+<table class="devicewidth" width="520" style="width:520px;" cellspacing="0" cellpadding="0" border="0" align="center"> 
+<tbody> 
+<!-- title --> 
+<!-- end of title --> 
+<!-- Spacing --> 
+<!-- Spacing --> 
+<!-- content --> 
+<tr> 
+<td width="100%" class="clearpads forcewhite" style="font-family:Lato, Arial, Helvetica, sans-serif; font-size: 12px; color: #2e363d; text-align:left;line-height: 16px;padding:20px 0px 30px 0px;"> 
+<div class="mktoText" id="disclaimer_textc0dafb34-8ea7-4c1f-9dbc-616986c77779" style="font-family:Lato, Arial, Helvetica, sans-serif;"> 
+<em> *Offer terms and conditions: Monthly pricing is billed annually. This limited-time discount offer expires on August 05, 2024, 11:59 PM EDT. Advertised price valid for new users on their first year of LastPass plan. Price not valid for renewals or existing customers. </em> 
+</div> </td> 
+</tr> 
+<!-- end of content --> 
+<!-- Spacing --> 
+<!-- button --> 
+<!-- /button --> 
+<!-- Spacing --> 
+<!-- Spacing --> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table>
+<table id="loginbar7cb7880b-251d-4904-9c8c-84e8ae8e136a" class="mktoModule forceblack" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#F7F9FA"> 
+<tbody> 
+<tr> 
+<td> 
+<table class="devicewidth forceblack" width="600" style="width:600px;" cellspacing="0" cellpadding="0" border="0" bgcolor="#A5C1DC" align="center"> 
+<tbody> 
+<tr> 
+<td width="100%"> 
+<table class="devicewidth" width="520" style="width:520px;" cellspacing="0" cellpadding="0" border="0" align="center"> 
+<tbody> 
+<tr> 
+<td width="100%" class="clearpadsthin forcewhite" style="font-family:Lato, Arial, Helvetica, sans-serif; font-size: 12px; color: #1F2A34; text-align:center;line-height: 22px;padding:25px 0px 25px 0px;"> 
+<div class="mktoText" id="loginbar_textc160177a-4c38-4b2b-b010-9ba5bb3ef8c5" style="font-family:Lato, Arial, Helvetica, sans-serif;">
+ <a href="https://lastpass.com/?ac=1&amp;cp=LP2024-07-20E-C&utm_source=marketo&utm_medium=email&utm_campaign=2024-07-22-b2c-multi-global-multi-july-promo" target="_blank" class="forcewhite" style="color: color:#1f2a34; text-decoration: none;">Log in to account</a> <span class="noMob">&nbsp;&nbsp;&nbsp;&nbsp;</span> <a href="https://lastpass.com/recover.php?cp=LP2024-07-20E-C&utm_source=marketo&utm_medium=email&utm_campaign=2024-07-22-b2c-multi-global-multi-july-promo" class="forcewhite" target="_blank" style="color: color:#1f2a34; text-decoration: none;">Forgot Master Password</a> <span class="noMob">&nbsp;&nbsp;&nbsp;&nbsp;</span> <a href="https://www.lastpass.com/select-personal-plan-offer?cp=LP2024-07-20E-C&utm_source=marketo&utm_medium=email&utm_campaign=2024-07-22-b2c-multi-global-multi-july-promo" class="forcewhite" target="_blank" style="color: color:#1f2a34; text-decoration: none;">Buy Now</a> 
+</div> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table>
+<table id="footersnippet" class="mktoModule forceblack" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#F7F9FA"> 
+<tbody> 
+<tr> 
+<td> 
+<table class="devicewidth pureblack" width="600" style="width:600px;" cellspacing="0" cellpadding="0" border="0" bgcolor="#000000" align="center"> 
+<tbody> 
+<tr> 
+<td width="100%" style="padding:0px 0px 30px 0px;"> 
+<table class="devicewidth" width="520" style="width:520px;" cellspacing="0" cellpadding="0" border="0" align="center"> 
+<tbody> 
+<tr> 
+<td width="100%" class="clearpads forcewhite" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;font-family:Lato, Arial, Helvetica, sans-serif; font-size: 12px; color: #ffffff; text-align:center;padding:19px 0px 10px 0px;"> 
+<div class="mobileOnly"> 
+<div class="mktoText" id="footersnippetCTA_text" style="font-family:Lato, Arial, Helvetica, sans-serif;">
+ GET LASTPASS 
+</div> 
+</div> </td> 
+</tr> 
+<tr class="mobileOnly"> 
+<td width="100%" class="clearpads forcewhite" valign="top" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;font-family:Lato, Arial, Helvetica, sans-serif; font-size: 12px; color: #ffffff; text-align:center;padding:0px 0px 29px 0px;"> 
+<div class="mktoText" id="footersnippetimg_text" style="font-family:Lato, Arial, Helvetica, sans-serif;"> 
+<a href="https://itunes.apple.com/app/id324613447"><img src="https://info.lastpass.com/rs/129-MSQ-038/images/App_Store.png" width="84" height="24"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://play.google.com/store/apps/details?id=com.lastpass.lpandroid&amp;hl=en"><img src="https://info.lastpass.com/rs/129-MSQ-038/images/Google_Play.png" width="93" height="28"></a> 
+</div> </td> 
+</tr> 
+<tr> 
+<td width="100%" class="clearpads forcewhite" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;font-family:Lato, Arial, Helvetica, sans-serif; font-size: 12px; color: #ffffff; text-align:center;line-height: 12px;padding:3px 0px 3px 0px;"> 
+<div class="mktoText" id="footersnippetemail_text" style="font-family:Lato, Arial, Helvetica, sans-serif;">
+ <table align="center" style="width: 100%; border-collapse: collapse; color: #ffffff; font-size: 11px; line-height: 18px;">
+<tbody>
+<tr>
+<td class="footer" align="center" style="font-size: 12px; line-height: 18px; font-family: 'Lato', Arial, Helvetica, sans-serif; color: #ffffff;">
+<div>This email was sent to: <a style="color: #ffffff; text-decoration: none;" href="/cdn-cgi/l/email-protection#c7" target="_blank"></a></div>
+<div><span class="appleLinksWhite"><a href="https://www.lastpass.com/" style="color: #ffffff; text-decoration: none;" target="_blank"> &copy; 2024. All rights reserved. LastPass US LP, 125 High Street, Suite 220, Boston, MA 02110
+</a></span></div>
+<div><a href="https://info.lastpass.com/unsubscribe.html" style="color: #ffffff; text-decoration: none;" footer_unsubscribe="" target="_blank" class="mktNoTrack">Unsubscribe</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://info.lastpass.com/index.php/email/emailWebview?mkt_tok=MTI5LU1TUS0wMzgAAAGU2UfZkTWR4Makcb8kb4G4jE_30DePqecBcf81XVYhk1xRDgCOCta89v_S3xCHdj9Wr__fjxgLaw34aIlXO6abOGHWZw" style="color: #ffffff; text-decoration: none;" target="_blank" id="Footer_BrowserView"> View in browser</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.lastpass.com/legal-center/privacy-policy" style="color: #ffffff; text-decoration: none;" target="_blank" id="Footer_Privacy">Privacy policy</a></div>
+<br /></td>
+</tr>
+</tbody>
+</table> 
+</div> 
+<!--[if gte mso 12]><br /> <![endif]--> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table></td> 
+</tr> 
+</tbody>
+</table>   
+
+&nbsp;
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="/js/forwardemail.js"></script><link rel="stylesheet" href="/css/forwardemail.css" type="text/css" /><script type="text/javascript" src="/js/stripmkttok.js"></script><script type="text/javascript" src="/js/anchorsupport.js"></script></body>
+</html>
